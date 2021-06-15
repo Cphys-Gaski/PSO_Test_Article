@@ -6,4 +6,4 @@ Author: Yako Irusta Salles
 
 Email: yakoirusta@correo.ugr.es
 
-Pyhon program written for Jupyter lab to validate the results obtained in an article. Credits to Joaquín Amat Rodrigo for the use of his PSO code which can be found in the following link: https://github.com/JoaquinAmatRodrigo/optimizacion_PSO_python
+Pyhon program written for Jupyter lab to validate the results obtained in an article. Credits to Joaquín Amat Rodrigo for the use of his PSO code (PSO_python.py) which can be found in the following link: https://github.com/JoaquinAmatRodrigo/optimizacion_PSO_python
